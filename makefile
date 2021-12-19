@@ -9,3 +9,4 @@ install_python:
 	$(VS) $(VS_INSTALL) "ms-toolsai.jupyter"
 	$(VS) $(VS_INSTALL) "ms-toolsai.jupyter-keymap"
 	$(VS) $(VS_INSTALL) "ms-toolsai.jupyter-renderers"
+	pip install transformers
