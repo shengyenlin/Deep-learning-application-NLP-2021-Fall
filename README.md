@@ -1,7 +1,7 @@
 # Deep learning and its application 
 This is a graduate-level deep learning course that introduces natural language processing content from basic NN to BERT. This repository contains my solutions to the homework assignments.
 
-Professor: [Yi-Ting, Huang](https://coralythuang.github.io/)
+Professor: [Yi-Ting, Huang](https://coralythuang.github.io/), graduate institution of information management @ National Taiwan university
 
 ## Course contents
 - Regression, perceptron, activation functions
