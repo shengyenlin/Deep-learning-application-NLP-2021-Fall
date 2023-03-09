@@ -23,7 +23,7 @@ Professor: [Yi-Ting, Huang](https://coralythuang.github.io/)
   - Use the hourly meteorological and compound satellite maps provided by the mayor of Germany to predict the PM2.5 for two villages in units of hour
   - Build a CNN-RNN model with xavier initialization to pass the strong baseline, 21/24 on [kaggle](https://www.kaggle.com/competitions/ntu-homework2-ver2/leaderboard) 
 - HW3: 
-  - Dataset is the same as HW3, with additional data from the UK
+  - Dataset is the same as HW2, with additional data from the UK
   - Build a seq2seq+Attention model to predict the PM2.5 for the next 8 hours using data, 15/24 [kaggle](https://www.kaggle.com/competitions/ntu-homework3/leaderboard)
 
 You could find more details in the directory of each homework.
